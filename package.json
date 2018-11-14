@@ -1,0 +1,24 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "MySQL, Node, Express, Handlebars and a homemade ORM, oh my!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playeasynow/burger.git"
+  },
+  "author": "ezequiel calderon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/playeasynow/burger/issues"
+  },
+  "homepage": "https://github.com/playeasynow/burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
