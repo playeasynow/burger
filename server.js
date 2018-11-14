@@ -16,7 +16,6 @@ app.engine("handlebars", exphbs({ defaultLayout: "main" }));
 app.set("view engine", "handlebars");
 
 
-
 // start our server to listen to client requests
 app.listen(PORT, function() {
     // Log (server-side) when our server has started
