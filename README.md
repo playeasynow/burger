@@ -8,7 +8,7 @@ Build a burger manager using handlebars.js! I decided to theme the burger manage
 
 # User Guide
 <img src="./public/assets/images/upNOut.png" 
-alt="burger mgr" width="600" height="300" border="10" /></a>
+alt="burger mgr" width="500" height="300" border="10" /></a>
 
 Here's how it works:
 
