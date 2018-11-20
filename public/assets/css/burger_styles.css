@@ -470,7 +470,11 @@
 	@media screen and (max-width: 1680px) {
 
 		.row > * {
-			padding: 0 0 0 12rem;
+			padding: 0 0 0 2rem;
+		}
+
+		.devourRow {
+			margin-left: 15rem;
 		}
 
 		.row {
